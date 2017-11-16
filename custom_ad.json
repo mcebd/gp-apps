@@ -1,0 +1,65 @@
+{
+   "result":[ 
+      {
+         "id":1506375784,
+         "priority":1,
+         "style":0,
+         "size":"1.1MB",
+         "breaking":1,
+         "app_name":"Mobile Tips এন্ড্রোয়েড টিপস্",
+         "message":"এন্ড্রোয়েড ফোন ব্যবহারকারীদের জন্য সুখবর। এই অ্যাপটি তৈরি করা হয়েছে বিভিন্ন ধরনের টিপস্ এবং ট্রিকস্ যা আপনাকে এই ফোনের নতুন নতুন ব্যবহার শিখতে সহায়তা করবে। কিছু বিষয় নিচে দেওয়া হলো:",
+         "pakage":"com.holo.mobile_tips",
+         "icon_url":"https://lh3.googleusercontent.com/UPG9zBiHpcAel1DivNuikf0X1Yq9mmq0HDaQI4HZpIftjdzcC1644CzqaC-2mopjqSQ=w300",
+         "gallery":1
+      },
+      {
+         "id":1506375783,
+         "priority":1,
+         "style":0,
+         "size":"1.1MB",
+         "breaking":0,
+         "app_name":"ভয়ংকর ভূতের গল্প",
+         "message":"সচরাচর যারা ভূতের গল্প পড়েন তারা যদি মজা না পেয়ে থাকেন অথবা ভয় না পান তবে তাদের জন্য আমাদের এই এপস্। পড়বেন তো অবশ্যই ভয় পাবেন। ভূতের গল্প পড়তে সবাই পছন্দ করে। এমন মানুষ খুব কম যারা ভূতের গল্প পছন্দ করে না। ছোট বেলা থেকেই নানা নানি, দাদা দাদি থেকে আমরা অনেক ভূতের গল্প শুনেছি।",
+         "pakage":"com.holo.vut",
+         "icon_url":"https://lh3.googleusercontent.com/UdZjHgaqq3stDiecr-x0VnJZb9cyP58RHF685hBiz3YnruLuUtfpZOIhjJu4R4t4k-U=w300",
+         "gallery":1
+      },
+      {
+         "id":1506375782,
+         "priority":1,
+         "style":0,
+         "size":"1.1MB",
+         "breaking":0,
+         "app_name":"মজার হাসির কৌতুক",
+         "message":"আমাদের সারাদিন কাজের ফাঁকে একঘেয়েমি কাটাতে আমরা আড্ডায় অংশ নেই। বাঙ্গালি জাতি আমোদ প্রমোদ প্রিয়। সময় সুযোগ পেলে আমরা একটু বিনোদন নিতে ভুলি না। আপনাদের বিনোদনের সঙ্গী হতে এবার এলো মজার হাসির কৌতুক এপস্। ",
+         "pakage":"com.holo.koutuk",
+         "icon_url":"https://lh3.googleusercontent.com/zzhrlnSyA8FD1SUFuio9zzdgllCESkVPX5WZJTFMBN-ta1uv03YpeASx5il1q9Lcnco=w300",
+         "gallery":0
+      },
+      {
+         "id":1506375781,
+         "priority":1,
+         "style":0,
+         "size":"1.1MB",
+         "breaking":1,
+         "app_name":"HSC ICT GUIDE BANGLA - এইচএসসি আইসিটি গাইড",
+         "message":"HSC ICT বিষয়ক এটা আমাদের দ্বিতীয় অ্যাপ। আইসিটি বিষয়ের ছয়টি অধ্যায়ের মধ্যে প্রথমটি বাদ দিয়ে পরবর্তী পাঁচটি অধ্যায়ের টপিকস এর উপর বিশেষ ভাবে তৈরি করা নোট রয়েছে এই অ্যাপটির ভিতর (HSC ICT)।",
+         "pakage":"com.holo.hsc_ict_guide",
+         "icon_url":"https://lh3.googleusercontent.com/maMqiEewUG5QO2gKck9ARL2myJRLaXKMh9GXhSOFf844t4CUivAgibMsApfGD7xhZrs=w300",
+         "gallery":0
+      },
+      {
+         "id":1506375780,
+         "priority":1,
+         "style":0,
+         "size":"1.1MB",
+         "breaking":1,
+         "app_name":"আউটসোর্সিং online income tips",
+         "message":"চাকরি, ব্যবসা আরও কত কিছুই না করি আমরা টাকা ইনকাম করতে। ঐরকম ই একটা আর্থিক ব্যাবস্থাপনা হলো অনলাইন ইনকাম (online income)। .",
+         "pakage":"com.holo.online_income",
+         "icon_url":"https://lh3.googleusercontent.com/qIxJt8y5H46jWnHQ9eqOiQ4a-1p7KnwR-ubwD4alK6iamhp0zXsA-iZlHA-FCMgGsGQ=w300",
+         "gallery":0
+      }
+   ]
+
+}
